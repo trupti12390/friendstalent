@@ -1,7 +1,7 @@
 # Welcome to My GitHub Profile! 👋
 
 ## About Me
-Hi, I'm Trupti.
+Hi, I'm Prachi.
 I'm interested in Data Analytics and technology.
 
 ## Skills
